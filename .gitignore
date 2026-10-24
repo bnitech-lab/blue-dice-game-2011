@@ -1,0 +1,34 @@
+# Visual Basic 6 build output and IDE files
+*.exe
+*.dll
+*.ocx
+*.obj
+*.pdb
+*.log
+*.vbw
+*.scc
+MSSCCPRJ.SCC
+
+# Binary form resources hold the original images; they are not part of this release
+*.frx
+
+# Images and sounds are not part of this release
+*.bmp
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.wav
+*.mp3
+
+# Office documents (they carry author metadata)
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
