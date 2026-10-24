@@ -1,0 +1,5 @@
+# Visual Basic 6 needs CRLF line endings and reads source in the Windows ANSI code page (CP949 here).
+# Store these files byte for byte so git never rewrites their line endings.
+*.frm -text
+*.bas -text
+*.vbp -text
